@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;while_loop&apos;" deleteContents="false" description="Delete resource &apos;while_loop&apos;" element1="/while_loop" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1627958822366"/>
+</session>

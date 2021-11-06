@@ -1,0 +1,10 @@
+package classes_and_object;
+
+public class StudentUse {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

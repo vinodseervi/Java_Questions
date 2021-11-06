@@ -1,0 +1,14 @@
+package Arrays;
+import java.util.Scanner;
+public class ArrayUse {
+
+	public static void main(String[] args) {
+		Scanner s = new Scanner(System.in);
+		int size = s.nextInt();
+		int input[] = new int[size];
+		
+		for(int i)
+
+	}
+
+}
